@@ -8,6 +8,8 @@
 - [References](#references)
 - [Author Info](#author-info)
 
+![Paint_Brush](https://github.com/mSaadSalman/Paint_Brush_Application/assets/105026161/09d1b5ae-6668-4a62-b55c-1e7bd35b92a7)
+
 ---
 ## Description
 
